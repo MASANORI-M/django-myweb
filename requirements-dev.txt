@@ -7,13 +7,8 @@ django-bootstrap4==3.0.1
 django-cors-headers==3.4.0
 django-toolbelt==0.0.1
 djangorestframework==3.11.2
-PyJWT @ file:///C:/ci/pyjwt_1619682721924/work
-pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
-pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+#PyJWT @ file:///C:/ci/pyjwt_1619682721924/work
 pyreadline==2.1
-pyrsistent @ file:///C:/ci/pyrsistent_1625052426389/work
-PySocks @ file:///C:/ci/pysocks_1605307512533/work
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
 pytz==2021.1
 sqlparse==0.4.1
 static3==0.7.0
