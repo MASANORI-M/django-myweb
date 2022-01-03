@@ -10,4 +10,8 @@ djangorestframework==3.11.2
 pyreadline==2.1
 pytz==2021.1
 sqlparse==0.4.1
+<<<<<<< HEAD
 static3==0.7.0
+=======
+static3==0.7.0
+>>>>>>> 3118f02a9e5b275144d469b41a1b4de6b63ac267
